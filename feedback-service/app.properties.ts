@@ -1,0 +1,1 @@
+export const DATABASE_CONNECTION = 'mongodb+srv://wathsala:967880965v@easy-way.xgec0.mongodb.net/man_power?authSource=admin&replicaSet=atlas-fs7wxc-shard-0&w=majority&readPreference=primary&appname=MongoDB%20Compass&retryWrites=true&ssl=true';
