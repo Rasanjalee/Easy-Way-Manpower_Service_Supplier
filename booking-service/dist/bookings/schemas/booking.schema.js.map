@@ -1,0 +1,1 @@
+{"version":3,"file":"booking.schema.js","sourceRoot":"","sources":["../../../src/bookings/schemas/booking.schema.ts"],"names":[],"mappings":";;;AAAA,qCAAoC;AAEvB,QAAA,aAAa,GAAG,IAAI,QAAQ,CAAC,MAAM,CAAC;IAC7C,EAAE,EAAC,MAAM;IACT,QAAQ,EAAC,MAAM;IACf,MAAM,EAAC,MAAM;IACb,WAAW,EAAC,IAAI;IAChB,QAAQ,EAAC,MAAM;IACf,MAAM,EAAC,MAAM;IACb,aAAa,EAAC,MAAM;CACvB,CAAC,CAAA"}
